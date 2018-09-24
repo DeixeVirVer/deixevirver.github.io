@@ -1032,7 +1032,16 @@ header {
 }
 
 .team-img>img {
-  width: 100%;
+  width: 250px;
+  height: 260px;
+}
+
+.img-team3 {
+    position: relative;
+    margin-bottom: 20px;
+    z-index: 11;
+    width: 230px;
+    height: 236px;
 }
 
 .team .overlay {
